@@ -119,12 +119,24 @@ body {
   font-size: 14px;
 }
 
-.post {
+.feature-item {
   background-color: #fff;
   padding: 20px;
   margin: 20px 0;
   box-shadow: 0 2px 3px rgba(0,0,0,.1);
 }
+
+.feature-item h1 {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.feature-item img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
 
 .post .avatar {
   padding-right: 10px;
