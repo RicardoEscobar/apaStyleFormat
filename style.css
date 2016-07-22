@@ -143,13 +143,14 @@ body {
   padding-bottom: 5px;
 }
 
-.post h3 {
+.feature-item h1 {
   font-size: 16px;
   margin-top: 0;
-  display: inline;
+  text-align: center;
+  margin: 10px auto;
 }
 
-.post p {
+.feature-item p {
   font-size: 14px;
 }
 
