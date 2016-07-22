@@ -47,6 +47,27 @@ body {
   padding: 7px 0;
 }
 
+.header a {
+  padding: 10px 6px;
+  margin: 2px;
+  float: right;
+}
+
+.header a:hover {
+  color: #fff;
+  border-color: #fff;
+}
+
+.header a:visited {
+  color: #fff;
+  border-color: #fff;
+}
+
+.header a:active {
+  color: #fff;
+  border-color: #fff;
+}
+
 .notification {
   position: relative;
   text-align: right;
@@ -118,8 +139,8 @@ body {
 }
 
 .btn {
-  color: #333;
-  border-color: #ccc;
+  color: #fff;
+  border-color: #fff;
   background-color: transparent;
   font-weight: 600;
 }
