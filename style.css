@@ -119,19 +119,23 @@ body {
   font-size: 14px;
 }
 
-.feature-item {
+.whitebox-item {
   background-color: #fff;
   padding: 20px;
   margin: 20px 0;
   box-shadow: 0 2px 3px rgba(0,0,0,.1);
 }
 
-.feature-item h1 {
+.whitebox-item h1 {
   font-size: 1.5em;
   text-align: center;
+  font-size: 16px;
+  margin-top: 0;
+  text-align: center;
+  margin: 10px auto;
 }
 
-.feature-item img {
+.whitebox-item img {
   margin-left: auto;
   margin-right: auto;
   display: block;
@@ -143,22 +147,8 @@ body {
   padding-bottom: 5px;
 }
 
-.feature-item h1 {
-  font-size: 16px;
-  margin-top: 0;
-  text-align: center;
-  margin: 10px auto;
-}
-
-.feature-item p {
+.whitebox-item p {
   font-size: 14px;
-}
-
-.video-item {
-  background-color: #fff;
-  padding: 20px;
-  margin: 20px 0;
-  box-shadow: 0 2px 3px rgba(0,0,0,.1);
 }
 
 .post p + img {
