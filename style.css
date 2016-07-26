@@ -115,9 +115,11 @@ body {
   font-size: 14px;
 }
 
-.post p + img {
-  width: 100%;
-  margin-bottom: 15px;
+.video img {
+  height: auto;
+  width: auto;
+  max-width: 320px;
+  max-height: 240px;
 }
 
 .btn {
